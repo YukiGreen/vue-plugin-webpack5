@@ -1,6 +1,6 @@
 {
   "name": "vue-plugin-webpack5",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "repository": "https://github.com/YukiGreen/vue-plugin-webpack5.git",
   "author": "YukiGreen <zxz938@outlook.com>",
